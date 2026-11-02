@@ -3,7 +3,14 @@
 **עברית:** סקילים לניהול צוות בוטים ב-Grok Bot, לשימוש חופשי לתלמידים. כל תיקייה היא סקיל אחד עם קובץ `SKILL.md`. כל הפרטים האישיים הוסרו והוחלפו בממלאי מקום כמו `<YOUR_READY_FOLDER>`, ואותם ממלאים בפרטים שלכם. מפתחות API לא נכתבים בסקיל אף פעם, רק ב-Secret. מתעדכן פעם בשבוע.
 הסקילים בנויים על [APIhub](https://apihub.co.il) (באנגלית: [apihub.tools](https://apihub.tools)). קופון: **20MORE** (20% טוקנים נוספים).
 
+**התקנה:** בוחרים סקיל, פותחים את `SKILL.md` שלו, מעתיקים את התוכן ומבקשים מהבוט ב-Grok Bot לשמור אותו כסקיל. אחרי זה ממלאים את ממלאי המקום בפרטים שלכם.
+רוצים ללמוד לבנות צוות בוטים כזה? הצטרפו ל[מועדון ה-AI](https://apihub.co.il/ai-club).
+
 **English:** Grok Bot skills for running a bot team, free for students to use. One folder per skill, each with a `SKILL.md`. Personal details were removed and replaced with placeholders such as `<YOUR_READY_FOLDER>`; fill in your own. API keys never go in a skill, only in a Secret. Updated weekly. Built on APIhub; coupon **20MORE** (20% extra tokens).
+
+**Install:** pick a skill, open its `SKILL.md`, copy the content and ask your Grok Bot to save it as a skill. Then fill in the placeholders with your own details.
+
+**Follow / עקבו:** [X @AskTolik](https://x.com/AskTolik) · [LinkedIn](https://www.linkedin.com/in/asktolik/)
 
 ## ניהול צוות / Team management
 | Skill | תיאור |
